@@ -14,8 +14,8 @@ and network monitoring as a foundation for a SOC/blue team career.
 | Wireshark | Packet capture & analysis | In progress |
 | Snort / IDS | Intrusion detection | Upcoming |
 | Suricata | Network threat detection | Upcoming |
-| Wazuh | SIEM / host monitoring | ⏳ Upcoming |
-| Splunk | Log management & SIEM | ⏳ Upcoming |
+| Wazuh | SIEM / host monitoring | Upcoming |
+| Splunk | Log management & SIEM | Upcoming |
 
 ## Structure
 Each tool has its own folder with notes, lab write-ups, and configs.
