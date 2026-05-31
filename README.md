@@ -1,8 +1,25 @@
-# # Blue Team Cybersecurity Learning Journey
+# Blue Team Cybersecurity – Learning Journey
 
-Welcome to my Blue Team cybersecurity repository.
+A personal documentation repo tracking my progress through blue team 
+security concepts and tools.
 
-This repository documents my practical learning experience in defensive security, including network traffic analysis, intrusion detection, security monitoring, threat hunting, incident response, and security hardening. My goal is to build hands-on skills through labs, home lab projects, investigations, and tool-based exercises while developing a strong understanding of modern security operations.
+## Goal
+Build practical, hands-on knowledge in threat detection, log analysis, 
+and network monitoring as a foundation for a SOC/blue team career.
 
-Technologies covered include Wireshark, Wazuh, Suricata, Splunk, Linux security tools, and other SOC-focused platforms.
 
+##  Tools Covered
+| Tool | Purpose | Status |
+|------|---------|--------|
+| Wireshark | Packet capture & analysis | In progress |
+| Snort / IDS | Intrusion detection | Upcoming |
+| Suricata | Network threat detection | Upcoming |
+| Wazuh | SIEM / host monitoring | ⏳ Upcoming |
+| Splunk | Log management & SIEM | ⏳ Upcoming |
+
+## Structure
+Each tool has its own folder with notes, lab write-ups, and configs.
+
+## Disclaimer
+All labs are performed in isolated virtual environments. 
+No real network data is stored here.
