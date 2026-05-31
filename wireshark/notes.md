@@ -2,7 +2,7 @@
 > Date: 2026-05-31
 
 ## What is it?
-One or two sentences. What does this tool/concept do and why does it matter?
+Wireshark is a free, open-source network packet analyser used to capture and inspect traffic in real time. It's one of the most important tools in a blue teamer's toolkit for investigating suspicious activity.
 
 ## How it works
 
